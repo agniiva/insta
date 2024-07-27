@@ -26,4 +26,5 @@ export default {
       <link rel="icon" type="image/x-icon" href="" />
     </>
   ),
+  docsRepositoryBase: 'https://github.com/agniiva/insta/tree/main',
 };
