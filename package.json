@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@types/node": "^20.14.12",
+    "next": "^14.2.5",
+    "nextra": "^2.13.4",
+    "nextra-theme-docs": "^2.13.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.5.4"
+  },
+  "name": "Creators,-with-lumentis",
+  "description": "This is a transcript of a conversation between YouTube creators Colin and Samir and Adam Mosseri, the head of Instagram. The conversation covers a wide range of topics related to Instagram, including the platform's focus on short-form video content, the competition with TikTok, monetization for creators, and the future of social media. The key themes include Instagram's strategy for staying relevant, supporting creators, and adapting to new technologies and user behaviors. This conversation is likely aimed at creators and those interested in the inner workings and future direction of Instagram.",
+  "version": "0.0.1",
+  "scripts": {
+    "devstart": "next dev -p 5656 & node start.js",
+    "dev": "next dev -p 5656",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "Social Media",
+    "Content Creation",
+    "Instagram",
+    "Creator Economy",
+    "Short-Form Video",
+    "Artificial Intelligence",
+    "Monetization",
+    "Internet Culture algorithm",
+    "important metrics",
+    "reach",
+    "guide on growth"
+  ]
+}
